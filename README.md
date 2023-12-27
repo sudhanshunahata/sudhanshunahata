@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudhanshunahata
 - 👀 I’m interested in mechanical and systems engineering
 - 🌱 I’m currently learning Spanish
-- 💞️ I’m looking to collaborate on fun projects
+- 💞️ I’m looking to collaborate on ideas
 - 📫 How to reach me snahata(@)alumni[dot]cmu[dot]edu
 
 <!---
